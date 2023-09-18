@@ -1,0 +1,22 @@
+{
+	"Recs": [
+		{
+			"Title": "Harry Potter",
+			"Writer": "J.K Rowling",
+			"Score": "10/10",
+			"Year": "2003"
+		},
+		{
+			"Title": "12 Rules for Life",
+			"Writer": "Jordon Peterson",
+			"Score": "8/10",
+			"Year": "2018"
+		},
+		{
+			"Title": "Stone, Paper, Knif",
+			"Writer": "Marge Piercy",
+			"Score": "9/10",
+			"Year": "1999"
+		}
+	]
+}
